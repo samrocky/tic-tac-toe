@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# OSX
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# Local environment
+.env
+
+# Plugin directory
+/.quarkus/cli/plugins/
+
+/home/paranoidandroid/Desktop/ExpenseManagerService/src/test/kotlin/center/kar/expense_managment_service/TicTacToeTest.kt
+
+/home/paranoidandroid/Desktop/ExpenseManagerService/src/main/kotlin/center/kar/expense_manager_service/controller/TicTacToeGameController.kt
+
+/home/paranoidandroid/Desktop/ExpenseManagerService/src/main/kotlin/center/kar/expense_manager_service/model/TicTacToeGame.kt
+
+/home/paranoidandroid/Desktop/ExpenseManagerService/src/main/kotlin/center/kar/expense_manager_service/service/TicTacToeGameService.kt
+
+/home/paranoidandroid/Desktop/ExpenseManagerService/src/main/kotlin/center/kar/expense_manager_service/service/TicTacToeLogic.kt
